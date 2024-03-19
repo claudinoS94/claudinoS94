@@ -17,7 +17,10 @@ Skills. 🤹
   
 <div style="display: inline_block"><br>
   <img align="center" alt="bruno-Js" height="30" width="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="bruno-HTML" height="30" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="bruno-CSS" height="30" width="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="bruno-jquery" height="30" width="" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align='center' alt='bruno-Bootstrap' height='30' width="" src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
+  <img align='center' alt='bruno-laravel' height='30' width="" src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white'>
+  <img align='center' alt='bruno-docker' height='30' width="" src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'>
+  <img align='center' alt='bruno-mariadb' height='30' width="" src='https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white'>
+  <img align='center' alt='bruno-mysql' height='30' width="" src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
+  <img align='center' alt='bruno-php' height='30' width="" src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
 </div>
