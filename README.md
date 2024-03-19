@@ -24,3 +24,10 @@ Skills. 🤹
   <img align='center' alt='bruno-mysql' height='30' width="" src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
   <img align='center' alt='bruno-php' height='30' width="" src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'>
 </div>
+<br>
+Currently Learning. 
+  <br>
+<div style="display: inline_block"><br>
+  <img align='center' alt='bruno-react' height='30' width="" src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+  <img align='center' alt='bruno-pgsql' height='30' width="" src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
+</div>
