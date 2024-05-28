@@ -3,12 +3,6 @@ Hi there, i'm Bruno Silva. 😃
 - 🔭 I’m currently working on back-end.
 - 🌱 I’m currently back-end developer, web development, laravel, MySQL, Javascript
 ##
-<div align="center">
-  <a href="https://github.com/claudinoS94"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudinoS94&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudinoS94&layout=compact&langs_count=7&theme=white"/>
-</div>
-
 Contact Me 📩
   <br>
   <a href = "mailto:contato.brunowd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
